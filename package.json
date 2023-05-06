@@ -1,0 +1,16 @@
+{
+  "name": "cursoecmascript",
+  "version": "1.0.0",
+  "description": "Archivos utilizados en el Curso de ECMAScript: Historia y Versiones de JavaScript de Platzi. // Files used in the ECMAScript Course: History and Versions of JavaScript from Platzi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "platzi"
+  ],
+  "author": "Gino Ruben Giorgi <ginorubengiorgi@gmail.com>",
+  "license": "MIT"
+}
