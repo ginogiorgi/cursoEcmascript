@@ -6,3 +6,11 @@ function* iterate(arr) {
 
 const it = iterate(["Oscar", "David", "Ana", "Ulises", "Jennifer"]);
 console.log(it.next().value); 
+console.log(it.next().value); 
+console.log(it.next().value);
+console.log(it.next().value);
+console.log(it.next().value);
+console.log(it.next().value);
+console.log(it.next().value);
+console.log(it.next().value);
+console.log(it.next().value);
