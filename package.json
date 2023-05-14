@@ -12,5 +12,6 @@
     "platzi"
   ],
   "author": "Gino Ruben Giorgi <ginorubengiorgi@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
