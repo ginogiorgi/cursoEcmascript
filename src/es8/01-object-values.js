@@ -7,3 +7,4 @@ const countries = {
 };
 
 console.log(Object.values(countries));
+console.log(Object.keys(countries));
