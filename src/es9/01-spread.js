@@ -1,5 +1,9 @@
 const user = {
-    username: chese890,
+    username: "chese890",
     edad: 24,
-    country: ARG,
-}
+    country: "ARG",
+};
+
+const {username, ...values} = user;
+console.log(username);
+console.log(values);
