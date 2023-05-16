@@ -13,5 +13,8 @@ console.log("Hello!");
 async function arrayOfNames(arr) {
     for await (let value of arr) {
         console.log(value);
-    }
-}
+    };
+};
+
+const names = arrayOfNames(["Gino", "Juan", "Francisco", "Franco"]);
+console.log("After");
