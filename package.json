@@ -13,5 +13,8 @@
   ],
   "author": "Gino Ruben Giorgi <ginorubengiorgi@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
